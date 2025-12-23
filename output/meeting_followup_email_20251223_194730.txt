@@ -1,0 +1,21 @@
+Subject: [Meeting topic] - Summary & Action Items - December 23, 2025
+
+Hi Team,
+
+Thanks for the productive meeting today.
+
+**KEY DECISIONS:**
+- Decision 1 - Why it matters / Context
+- Decision 2 - Why it matters / Context
+
+**ACTION ITEMS:**
+- @[Owner] - [Task description] - Due: [Date]
+- @[Owner] - [Task description] - Due: [Date]
+
+**NEXT STEPS:**
+We need to prioritize the high-priority tasks and ensure completion by [due date]. Let's aim to address the medium-priority items by [date]. Our next meeting is tentatively scheduled for [suggest timing] to discuss [topics].
+
+Please let me know if I missed anything or if you have questions!
+
+Best,
+[Your name]

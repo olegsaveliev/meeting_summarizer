@@ -1,0 +1,26 @@
+Subject: Client Meeting - Project Alpha - Summary & Action Items - January 15, 2024
+
+Hi team,
+
+Thanks for the productive meeting on Project Alpha.
+
+**KEY DECISIONS:**
+- Approving approach B for the backend architecture
+- Weekly client check-ins every Tuesday at 2pm
+
+**ACTION ITEMS:**
+- John - Finish API documentation by Friday - Due: Friday
+- Sarah - Optimize mobile performance - Due: End of the week
+
+**NEXT STEPS:**
+We need to complete API documentation and optimize mobile performance this week. Let's plan for performance testing early next week.
+
+**BLOCKERS/NEEDS:**
+- External API dependency timeline confirmation pending
+
+Our next meeting is scheduled for next Tuesday at 2pm to review progress on action items and address any new developments.
+
+Please let me know if I missed anything or if you have questions!
+
+Best,
+[Your name]

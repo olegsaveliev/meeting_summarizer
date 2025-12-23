@@ -1,0 +1,26 @@
+Subject: Follow-up on December 23, 2025 Meeting - Summary & Action Items
+
+Hi Team,
+
+Thanks for the productive meeting today.
+
+**KEY DECISIONS:**
+- Decision 1 - Context
+- Decision 2 - Context
+
+**ACTION ITEMS:**
+- @Owner - Task description - Due: Date
+- @Owner - Task description - Due: Date
+
+**NEXT STEPS:**
+We need to complete the urgent tasks by [specific deadline] to stay on track.
+
+**BLOCKERS/NEEDS:**
+No blockers identified. 
+
+Our next meeting is scheduled for [suggest date] to discuss [topics].
+
+Please let me know if I missed anything or if you have questions!
+
+Best,
+[Your Name]
