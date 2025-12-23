@@ -1,0 +1,27 @@
+cat > .gitignore << 'EOF'
+# Environment
+.env
+.env.local
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Output files (optional - you might want to commit examples)
+# output/*.md
+# output/*.txt
+
+# Mac
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+EOF

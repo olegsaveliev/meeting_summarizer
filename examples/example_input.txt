@@ -1,0 +1,31 @@
+Client Meeting - Project Alpha
+Jan 15, 2024
+
+Quick sync with client today about Q1 timeline. They're pushing for March 15 launch instead of end of March. Budget approved at $75k which is great news.
+
+Main concerns:
+- Mobile performance needs to be solid
+- Want weekly progress updates
+- Need final design approval by next week
+
+Technical discussion:
+Sarah mentioned the new animation library might cause performance issues on older devices. We agreed to do performance testing early next week. Mike will create test scenarios.
+
+Decisions:
+- Moving forward with approach B for the backend architecture
+- Weekly client check-ins every Tuesday at 2pm
+- Sarah leads frontend, John handles backend integration
+- Design review meeting next Wednesday
+
+Action items:
+- John needs to finish API documentation by Friday
+- Sarah to optimize mobile performance this week
+- Mike creates performance test plan by Monday
+- Oleg to send weekly update template to client
+
+Risks:
+- Tight timeline if we hit any major technical issues
+- External API dependency - vendor hasn't confirmed timeline yet
+- Team capacity next month (Sarah's vacation)
+
+Next meeting: Next Tuesday 2pm to review progress
